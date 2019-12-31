@@ -8,7 +8,8 @@
     "fs-extra": "^8.1.0"
   },
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "installAll": "npm install fs-extra --save-dev"
   },
   "author": "",
   "license": "ISC"

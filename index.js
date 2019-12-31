@@ -1,9 +1,9 @@
 const path = require('path');
 const fs = require('fs-extra');
 
-const testDirectoryPath = '\\categories\\test_folder';
-const fileNamePath = '\\categories\\test_folder\\createdFile.txt';
-const newTestDirectoryPath = '\\categories\\new_test_folder';
+const testDirectoryPath = '\\test_folder';
+const fileNamePath = '\\test_folder\\createdFile.txt';
+const newTestDirectoryPath = '\\new_test_folder';
 
 //Create a new directory
 function createFolder() {
